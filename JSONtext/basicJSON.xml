@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "basicJSON.xsl"?>
+<class>
+    <student>
+        <first>Will</first>
+        <last>Yuan</last>
+        <id>1</id>
+    </student>
+    <student>
+        <first>Alexis</first>
+        <last>Jansen</last>
+        <id>2</id>
+    </student>
+</class>
